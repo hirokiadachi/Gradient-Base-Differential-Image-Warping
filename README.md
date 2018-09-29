@@ -1,2 +1,2 @@
 # Gradient-Base-Differential-Image-Warping
-[CodeCogsEqn.pdf](https://github.com/hirokiadachi/Gradient-Base-Differential-Image-Warping/files/2430519/CodeCogsEqn.pdf)
+![codecogseqn](https://user-images.githubusercontent.com/27120804/46244522-01504900-c41b-11e8-822d-a76611faad7e.gif)
